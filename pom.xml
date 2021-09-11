@@ -101,7 +101,7 @@
             </dependency>
 
             <dependency>
-                <groupId>org.apache.kafka</groupId>
+                <groupId>com.atguigu.kafka</groupId>
                 <artifactId>kafka-clients</artifactId>
                 <version>${kafka.client.version}</version>
             </dependency>
